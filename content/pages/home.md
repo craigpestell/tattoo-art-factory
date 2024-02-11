@@ -1,5 +1,5 @@
 ---
-title: Tina Cloud Starter
+title: Home
 blocks:
   - headline: Tattoo Art Factory
     text: >
